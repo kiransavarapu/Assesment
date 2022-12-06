@@ -1,0 +1,8 @@
+A. What is reverse-i-search in a Linux terminal?
+A)reverse-i-search it is used to find the past commands
+B.How do you list out the hidden directories using Linux command line tool?
+A)The ls command is a widely used Linux command. In its simplest form, the command lists files and folders within a directory. However, ls doesn't list hidden files by default. To show hidden files you must use the -a option, which commands ls to list "all" files and folders (including hidden ones).
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+A)yes i'm very comfortable with using Linux-based OS like Ubuntu, Centos
+D.Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+A)yes i have been used Servers to host any web applications in the past.the services i set up was Apache.
